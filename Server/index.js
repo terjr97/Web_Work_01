@@ -4,7 +4,6 @@ const userController = require('./controllers/Users')
 const gameController = require('./controllers/Game')
 
 const app = express();
-const test = true || SVGComponentTransferFunctionElement(44);
 const port = process.env.PORT || 3000;
 
     app
