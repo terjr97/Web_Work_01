@@ -4,10 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon index.js"
+    "start": "nodemon index.js",
+    "dev": "nodemon index.js"
   },
-  "author": "Thomas R",
-  "license": "ISC",
   "dependencies": {
     "express": "^4.17.1"
   },
